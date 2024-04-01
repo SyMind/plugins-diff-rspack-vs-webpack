@@ -1,0 +1,21 @@
+{
+  "name": "plugins-diff-rspack-vs-webpack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rspack/core": "^0.5.9",
+    "@types/node": "^20.12.2",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.3",
+    "webpack": "^5.91.0"
+  }
+}
